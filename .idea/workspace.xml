@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a170cee6-1252-414b-933b-34357237bee7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/filter_database.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DO/Table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runError.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runInfo.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runWarning.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runtime.2021-07-26_18-07-49_598805.log.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runtime.2021-07-27_13-14-28_781606.log.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/logs/runtime.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_comp/srapp_bz.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_comp/srapp_jz.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_comp/srapp_shzz.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sql_src/srapp_qzj.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/setLoguru.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1vqdkoYayPfMe2gfHh80ZVL9RNZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resource" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\00Code\0python\filter_database\sql_src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\00Code\0python\filter_database\resource" />
+      <recent name="D:\00Code\0python\filter_database\sources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="filter_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:\00Code\0python\filter_database\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="filter_database" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a170cee6-1252-414b-933b-34357237bee7" name="Default Changelist" comment="" />
+      <created>1627293698081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1627293698081</updated>
+      <workItem from="1627293699525" duration="1565000" />
+      <workItem from="1627303865965" duration="1396000" />
+      <workItem from="1627352775914" duration="14373000" />
+      <workItem from="1627369022552" duration="961000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="518" y="221" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1627354688582">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="518" y="221" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1627354688582" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1627368713310">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1627368713310" />
+    <state x="625" y="308" width="286" height="246" key="Github.ShareDialog" timestamp="1627369858008">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="625" y="308" width="286" height="246" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1627369858008" />
+    <state x="361" y="74" key="GrepConsoleSettings" timestamp="1627362660609">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="74" key="GrepConsoleSettings/0.0.1536.824@0.0.1536.824" timestamp="1627362660609" />
+    <state width="1492" height="261" key="GridCell.Tab.0.bottom" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1921" height="213" key="GridCell.Tab.0.bottom/0.0.1966.783@0.0.1966.783" timestamp="1627305622638" />
+    <state width="1492" height="261" key="GridCell.Tab.0.center" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1921" height="213" key="GridCell.Tab.0.center/0.0.1966.783@0.0.1966.783" timestamp="1627305622638" />
+    <state width="1492" height="261" key="GridCell.Tab.0.left" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1921" height="213" key="GridCell.Tab.0.left/0.0.1966.783@0.0.1966.783" timestamp="1627305622638" />
+    <state width="1492" height="261" key="GridCell.Tab.0.right" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1921" height="213" key="GridCell.Tab.0.right/0.0.1966.783@0.0.1966.783" timestamp="1627305622638" />
+    <state width="1492" height="261" key="GridCell.Tab.1.bottom" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1492" height="261" key="GridCell.Tab.1.center" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1492" height="261" key="GridCell.Tab.1.left" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state width="1492" height="261" key="GridCell.Tab.1.right" timestamp="1627369000555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1492" height="261" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1627369000555" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1627369050475">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1627369050475" />
+    <state width="775" height="419" key="XDebugger.FullValuePopup" timestamp="1627357539413">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="775" height="419" key="XDebugger.FullValuePopup/0.0.1536.824@0.0.1536.824" timestamp="1627357539413" />
+    <state x="48" y="86" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1627355582322">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="48" y="86" width="1350" height="638" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.824@0.0.1536.824" timestamp="1627355582322" />
+    <state x="323" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1627356657201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="323" y="151" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1627356657201" />
+    <state x="457" y="167" width="621" height="490" key="find.popup" timestamp="1627356959666">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="457" y="167" width="621" height="490" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1627356959666" />
+    <state x="510" y="59" key="refactoring.ChangeSignatureDialog" timestamp="1627361304618">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="510" y="59" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1627361304618" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="currentTable" />
+        <watch expression="tableList" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/filter_database$test.coverage" NAME="test Coverage Results" MODIFIED="1627354729156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/untitled2$1.coverage" NAME="1 Coverage Results" MODIFIED="1627295251971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/filter_database$1.coverage" NAME="main Coverage Results" MODIFIED="1627368554994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
